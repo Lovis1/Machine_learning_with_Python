@@ -1,7 +1,7 @@
-# Machine_learning_with_Python
+# ML with Python: Digit Recognition
 This is a project in the course 'Skills: Programming - Introductory level' at the University of St. Gallen.
 
-In this project I have applied three Machine learning models on Lecun's, Cortes's and J.C. Burges's MNIST dataset of handwritten digits (http://yann.lecun.com/exdb/mnist/).
+In this project I have applied three Machine learning models for digit recognition on Lecun's, Cortes's and J.C. Burges's MNIST dataset of handwritten digits (http://yann.lecun.com/exdb/mnist/).
 I have oriented myself with Ahmad Bazzi's Tutorial "Stochastic Gradient Descent Classifier - Machine Learning # 2" from june 2020 (https://www.youtube.com/watch?v=aXpsCyXXMJE) for binary classification and with Karlijn Willems's Tutorial "Python Machine Learning: Scikit-Learn Tutorial" from february 2019 (https://www.datacamp.com/community/tutorials/machine-learning-python) for Principal components analysis (PCA) and a clustering model (K-Means algorithm).
 
 * The code is written with Python, and is divided into two parts, which make for two jupyter notebooks: 
