@@ -8,7 +8,7 @@ I have oriented myself with Ahmad Bazzi's tutorial "Stochastic Gradient Descent 
    1. Binary Classification using SGD-Classifier
    2. Principal Component Analysis and Clustering with K-means
 
-* Each part (SGD-Classifier *; PCA; Clustering) is built according to the analogue four steps: 
+* Each part (SGD-Classifier *; PCA, Clustering) is built according to the analogue four steps: 
    1) Importing the dataset
    2) Preprocessing the data
    3) Applying machine learning models and visualizing results
