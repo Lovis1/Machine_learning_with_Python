@@ -5,8 +5,8 @@ In this project I have applied three Machine learning models on Lecun's, Cortes'
 I have oriented myself with Ahmad Bazzi's Tutorial "Stochastic Gradient Descent Classifier - Machine Learning # 2" from june 2020 (https://www.youtube.com/watch?v=aXpsCyXXMJE) for binary classification and with Karlijn Willems's Tutorial "Python Machine Learning: Scikit-Learn Tutorial" from february 2019 (https://www.datacamp.com/community/tutorials/machine-learning-python) for Principal components analysis (PCA) and a clustering model (K-Means algorithm).
 
 * The code is written with the python language, and is divided into two parts, which make for two jupyter notebooks: 
-1) Binary classification using SGD-Classifier
-2) Principal component analysis and Clustering with K-means
+1. Binary classification using SGD-Classifier
+2. Principal component analysis and Clustering with K-means
 
 * Each part (SGD-Classifier *; PCA; Clustering) is built according to the analogue four steps: 
 1) Importing the dataset
